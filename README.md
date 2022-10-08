@@ -1,8 +1,10 @@
 # 6.78-Hours-Chinese-Mandarin-Speech-Synthesis-Corpus-Female-Imitating-Children
-https://www.datatang.ai/datasets/1091
+
 
 ## Description
 Female audio data of adults imitating children, 6599 sentences in total and 6.78 hours. It is recorded by Chinese native speakers, with authentic accent and sweet sound. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3UyQDrL
 
 ## Format
 48,000Hz, 24bit, uncompressed wav, mono channel.
@@ -27,3 +29,6 @@ word transcription.
 
 ## Application scenarios
 speech synthesis.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
