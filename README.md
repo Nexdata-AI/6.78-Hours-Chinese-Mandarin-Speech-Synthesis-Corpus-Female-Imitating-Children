@@ -4,7 +4,7 @@
 ## Description
 Female audio data of adults imitating children, 6599 sentences in total and 6.78 hours. It is recorded by Chinese native speakers, with authentic accent and sweet sound. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1091?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1091?source=Github
 
 
 ## Format
